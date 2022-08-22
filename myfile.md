@@ -1,5 +1,3 @@
-#git
+# mygit
 
-
-
-Hello, everyone.
+Hello, everyone!
